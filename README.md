@@ -78,7 +78,7 @@ Je suis en manque d'inspiration, j'ai besoin d'une palette de couleur ?
 
 * https://color.adobe.com/fr/create/color-wheel
 
-J'ai quelques inspirations CSS, je souhiate la booster ou le faire ?
+Je suis en manque d'inspiration CSS, j'ai besoin de la booster ?
 
 * https://css-playground.com/
 
