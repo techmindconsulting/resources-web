@@ -77,3 +77,15 @@ Je suis en manque d'inspiration, j'ai besoin d'une palette de couleur ?
 * https://colors.lol/
 
 * https://color.adobe.com/fr/create/color-wheel
+
+Playground CSS :
+
+* https://css-playground.com/
+
+* https://bennettfeely.com/clippy/
+
+* https://border-radius.com/
+
+* https://cssgenerator.org/
+
+* https://cssgradient.io/
