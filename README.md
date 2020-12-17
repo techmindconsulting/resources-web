@@ -59,6 +59,12 @@ Ou puis-je trouver des polices de caractères ?
 
 * https://fonts.google.com/
 
+* https://fonts.adobe.com/
+
+* https://www.fonts.com/
+
+* https://www.dafont.com/fr/
+
 
 Comment générer un autre format de police pour la compatibilité navigateur ? 
 
