@@ -89,3 +89,5 @@ Je suis en manque d'inspiration CSS, j'ai besoin de la booster ?
 * https://cssgenerator.org/
 
 * https://cssgradient.io/
+
+* https://www.gradientmagic.com/
