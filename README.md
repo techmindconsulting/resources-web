@@ -4,6 +4,14 @@ Avant de commencer à coder j'ai besoin de faire un prototype, comment m'y prend
 
 * https://wireframe.cc/
 
+Je voudrais générer du contenu de manière aleatoire (texte ou image) ?
+
+* https://placeholder.com/
+
+* https://picsum.photos/
+
+* https://loremipsum.io/
+
 
 Comment récupérer les codes couleur d’une image ?
 
