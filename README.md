@@ -79,12 +79,14 @@ Comment générer un autre format de police pour la compatibilité navigateur ?
 * https://www.fontsquirrel.com/tools/webfont-generator
 
 
-Je suis en manque d'inspiration, j'ai besoin d'une palette de couleur ?
+Je suis en manque d'inspiration, j'ai besoin d'une palette de couleur ou couleur?
 * https://colorhunt.co/
 
 * https://colors.lol/
 
 * https://color.adobe.com/fr/create/color-wheel
+
+* https://htmlcolorcodes.com
 
 Je suis en manque d'inspiration CSS, j'ai besoin de la booster ?
 
