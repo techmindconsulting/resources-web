@@ -33,6 +33,7 @@ Comment traiter une image en ligne ?
 
 * https://compressor.io/
 
+* https://www.remove.bg/fr
 
 J'ai déjà la favicon de mon site mais j'ai besoin d'en générer au format standard apple, android
 
@@ -101,3 +102,25 @@ Je suis en manque d'inspiration CSS, j'ai besoin de la booster ?
 * https://cssgradient.io/
 
 * https://www.gradientmagic.com/
+
+Autre: 
+
+* https://devhints.io/
+
+* https://learnxinyminutes.com/
+
+* https://regex101.com/
+
+* https://jsoneditoronline.org
+
+* https://codesandbox.io/
+
+* https://speed.cloudflare.com/
+
+* https://excalidraw.com/
+
+* https://bundlephobia.com/
+
+* https://jubianchi.github.io/semver-check/#/
+
+
