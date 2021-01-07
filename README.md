@@ -46,8 +46,9 @@ Comment faire un dégradé de couleur ?
 
 * https://cssgradient.io/
 
- 
+* https://mycolor.space/gradient
 
+ 
 Ou puis-je trouver des icônes ?
 
 * https://fontawesome.com/icons?d=gallery
@@ -81,13 +82,15 @@ Comment générer un autre format de police pour la compatibilité navigateur ?
 
 
 Je suis en manque d'inspiration, j'ai besoin d'une palette de couleur ou couleur?
-* https://colorhunt.co/
+* https://colorhunt.co
 
-* https://colors.lol/
+* https://colors.lol
 
 * https://color.adobe.com/fr/create/color-wheel
 
 * https://htmlcolorcodes.com
+
+* https://mycolor.space
 
 Je suis en manque d'inspiration CSS, j'ai besoin de la booster ?
 
