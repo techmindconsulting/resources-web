@@ -4,6 +4,12 @@ Avant de commencer à coder j'ai besoin de faire un prototype, comment m'y prend
 
 * https://wireframe.cc/
 
+
+Je voudrais un avatar :
+
+* https://getavataaars.com/
+
+
 Je voudrais générer du contenu de manière aleatoire (texte ou image) ?
 
 * https://placeholder.com/
@@ -47,6 +53,8 @@ Comment faire un dégradé de couleur ?
 * https://cssgradient.io/
 
 * https://mycolor.space/gradient
+
+* https://uigradients.com/
 
  
 Ou puis-je trouver des icônes ?
